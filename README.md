@@ -1,4 +1,4 @@
-## Hi, I'm Khushi 👋
+## Hi, I'm Khushi!
 
 I'm a Software Engineering and Commerce student at UNSW with an interest in backend and full-stack development.
 
